@@ -1,2 +1,2 @@
-# git-cookbook
-A collection of recipes I created on my own
+# 👨‍🍳git-cookbook
+A collection of recipes I created on my own in my freetime.
