@@ -12,5 +12,6 @@ This is a non spicy fusion recipe of miso + thai curry style cusine
 * 2 Tsps of mixed curry powder
 * 1 Tbsp of soy sauce
 * 3 Tbsps of oil
+* Salt/Pepper
 
 ## Preparation
